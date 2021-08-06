@@ -1,2 +1,2 @@
 # live-facial-landmarks
-Live facial landmark estimation
+Live facial landmark estimation (incomplete)
